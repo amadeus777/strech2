@@ -135,7 +135,7 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "32px",
-              "color": "#12579b"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-size": "60px"
